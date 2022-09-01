@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "scripts": {
+    "start": "cd html && npx live-server"
+  },
+  "asparagus" : {
+    "varsta" : 90,
+    "fericit" : true,
+    "fructe" :[
+      "mar",
+      "capsuna",
+      "mango",
+      "dragon fruit"
+    ]
+  }
+}
